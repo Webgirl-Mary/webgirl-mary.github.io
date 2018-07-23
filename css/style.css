@@ -64,6 +64,9 @@ background-color: #fff;
 padding-top: 29px;
 padding-bottom: 44px;
 }
+.port-img {
+border: 2px solid #DDA0DD;
+}
 .portfolio-title, .portfolio-subtitle {
 text-align: center;
 }
